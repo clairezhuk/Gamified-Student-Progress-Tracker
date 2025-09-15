@@ -13,16 +13,18 @@ The repository includes:
 ## 📖 Instructions in English
 
 ### Installation  
-1. Download the `.xlsx` template from the repository  
+1. Download the `.ods` template from the repository  
 2. Upload it to your Google Drive  
 3. Open it in Google Sheets  
 4. Go to **Extensions**  
 5. Select **Apps Script**  
 6. Create a new script and paste the provided code, or upload the script file  
 7. Save the script and refresh the sheet  
-8. A new menu **🧮 Math XP** will appear  
-9. Perform any first action → confirm access (Google will show a security prompt)  
-10. ⚠️ Read the usage instructions before giving the student editing rights  
+8. A new menu **🧮 Math XP** will appear
+9. Go to the Shop tab
+10. Select an image with the "BUY NOW" button and assign it the buySelectedItems script
+11. Perform any first action → confirm access (Google will show a security prompt)
+12. ⚠️ Read the usage instructions before giving the student editing rights  
 
 ### Usage  
 - The **Math XP** menu has 3 sections: class tasks, homework, bonuses  
@@ -43,16 +45,18 @@ The repository includes:
 ## 📖 Інструкція українською
 
 ### Встановлення  
-1. Завантажити шаблон `.xlsx` з репозиторію  
+1. Завантажити шаблон `.ods` з репозиторію  
 2. Додати шаблон на свій Google Drive  
 3. Відкрити його в Google Sheets  
 4. Вибрати **Розширення**  
 5. Обрати **Apps Script**  
 6. Створити новий скрипт і вставити туди код, або завантажити файл зі скриптом  
 7. Зберегти скрипт і оновити сторінку таблиці  
-8. З’явиться меню **🧮 Math XP**  
-9. Виконати будь-яку дію → підтвердити доступ (Google покаже попередження)  
-10. ⚠️ Перед тим як давати учню доступ до редагування — уважно ознайомтеся з інструкцією  
+8. З’явиться меню **🧮 Math XP**
+9. Перейти у вкладку Shop
+10. Вибрати картинку з кнопкою "BUY NOW" і призначити їй сценарій buySelectedItems
+11. Виконати будь-яку дію → підтвердити доступ (Google покаже попередження)
+12. ⚠️ Перед тим як давати учню доступ до редагування — уважно ознайомтеся з інструкцією  
 
 ### Використання  
 - Меню **Math XP** має 3 розділи: завдання в класі, домашні завдання, бонуси  
